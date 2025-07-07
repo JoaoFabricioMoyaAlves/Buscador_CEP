@@ -22,12 +22,6 @@ Um projeto simples e funcional para **buscar endereços pelo CEP** utilizando a 
 
 ---
 
-## 💻 Demonstração
-
-*(adicione aqui um GIF ou imagem do app rodando, se quiser)*
-
----
-
 ## 🚀 Como Rodar Localmente
 
 ### ✅ Pré-requisitos
