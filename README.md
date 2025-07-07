@@ -38,5 +38,5 @@ Um projeto simples e funcional para **buscar endereços pelo CEP** utilizando a 
 ### 📦 Clonar o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/buscador-cep-react.git
+git clone https://github.com/JoaoFabricioMoyaAlves/Buscador_CEP.git
 cd buscador-cep-react
